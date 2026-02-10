@@ -1,4 +1,4 @@
-import { FormEvent, useState } from 'react'
+import { useState, type FormEvent } from 'react'
 import { NavLink, Route, Routes } from 'react-router-dom'
 import './App.css'
 import {
